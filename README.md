@@ -1,4 +1,4 @@
-# Health Insurance Cross-Sell Prediction
+# Vehicle Insurance Cross-Sell Prediction
 
 
 Predict whether a customer will respond to cross-sell of vehicle-insurance.
