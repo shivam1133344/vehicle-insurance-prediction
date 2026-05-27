@@ -3,6 +3,9 @@
 
 Predict whether a customer will respond to cross-sell of vehicle-insurance.
 
+#Project screenshot
+![Output](poutput.png)
+
 
 ## Problem Statement
 Insurance companies want to predict the likelihood that a customer will purchase vehicle-insurance so they can allocate marketing resources efficiently.
