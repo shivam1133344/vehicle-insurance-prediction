@@ -5,7 +5,7 @@ Predict whether a customer will respond to cross-sell of vehicle-insurance.
 
 # Project Screenshot
 
-![Project Screenshot](project output.png)
+![Project Screenshot](poutput.png)
 
 
 ## Problem Statement
